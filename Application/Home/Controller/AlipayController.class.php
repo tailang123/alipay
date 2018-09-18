@@ -15,7 +15,7 @@ class AlipayController extends Controller
     {
         $input = i('post.');
         
-        $config = C('alipay_config');
+        $config = \C('alipay_config');
         //异步通知地址
         $config['notify_url'] = $config['notify_url'];
  
