@@ -1179,3 +1179,19 @@ INFO: [ app_begin ] --END-- [ RunTime:0.001139s ]
 NOTIC: [8] Undefined index: notify_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 20 行.
 NOTIC: [8] Undefined index: return_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 23 行.
 
+[ 2018-09-18T18:08:00+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000869s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000673s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000693s ]
+NOTIC: [8] Undefined index: notify_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 20 行.
+NOTIC: [8] Undefined index: return_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 23 行.
+NOTIC: [8] Undefined index: gatewayUrl H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 38 行.
+NOTIC: [8] Undefined index: app_id H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 39 行.
+NOTIC: [8] Undefined index: merchant_private_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 40 行.
+NOTIC: [8] Undefined index: alipay_public_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 41 行.
+NOTIC: [8] Undefined index: charset H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 42 行.
+ERR: appid should not be NULL!
+
