@@ -15,7 +15,7 @@ class AlipayController extends Controller
     {
         $input = i('post.');
         
-        $config = \C('alipay_config');
+        $config = C('alipay_config');
         //异步通知地址
         $config['notify_url'] = $config['notify_url'];
  
@@ -48,7 +48,7 @@ class AlipayController extends Controller
             'status' => '0',                           //是否支付
             'ordertime' => time()                      //交易时间
         );
-        M("pay_record")->add($data); // 保存交易信息
+        // M("pay_record")->add($data); // 保存交易信息
  
         //构造参数
         $payRequestBuilder = new \AlipayTradePagePayContentBuilder();
