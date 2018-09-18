@@ -1195,3 +1195,87 @@ NOTIC: [8] Undefined index: alipay_public_key H:\phpstudy\PHPTutorial\WWW\tp3.2\
 NOTIC: [8] Undefined index: charset H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 42 行.
 ERR: appid should not be NULL!
 
+[ 2018-09-18T18:10:43+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000749s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000994s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001037s ]
+NOTIC: [8] Undefined index: return_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 23 行.
+NOTIC: [8] Undefined index: gatewayUrl H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 38 行.
+NOTIC: [8] Undefined index: app_id H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 39 行.
+NOTIC: [8] Undefined index: merchant_private_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 40 行.
+NOTIC: [8] Undefined index: alipay_public_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 41 行.
+NOTIC: [8] Undefined index: charset H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 42 行.
+NOTIC: [8] Undefined index: sign_type H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 43 行.
+ERR: appid should not be NULL!
+
+[ 2018-09-18T18:10:46+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000619s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000779s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000835s ]
+NOTIC: [8] Undefined index: return_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 23 行.
+NOTIC: [8] Undefined index: gatewayUrl H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 38 行.
+NOTIC: [8] Undefined index: app_id H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 39 行.
+NOTIC: [8] Undefined index: merchant_private_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 40 行.
+NOTIC: [8] Undefined index: alipay_public_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 41 行.
+NOTIC: [8] Undefined index: charset H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 42 行.
+NOTIC: [8] Undefined index: sign_type H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 43 行.
+ERR: appid should not be NULL!
+
+[ 2018-09-18T18:12:07+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000007s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000734s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001504s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001564s ]
+NOTIC: [8] Undefined index: notify_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 20 行.
+NOTIC: [8] Undefined index: return_url H:\phpstudy\PHPTutorial\WWW\tp3.2\Application\Home\Controller\AlipayController.class.php 第 23 行.
+NOTIC: [8] Undefined index: gatewayUrl H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 38 行.
+NOTIC: [8] Undefined index: app_id H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 39 行.
+NOTIC: [8] Undefined index: merchant_private_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 40 行.
+NOTIC: [8] Undefined index: alipay_public_key H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 41 行.
+NOTIC: [8] Undefined index: charset H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\pagepay\service\AlipayTradeService.php 第 42 行.
+ERR: appid should not be NULL!
+
+[ 2018-09-18T18:12:14+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000012s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000638s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000746s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000818s ]
+NOTIC: [8192] The each() function is deprecated. This message will be suppressed on further calls H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\aop\AopClient.php 第 413 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001199s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001233s ]
+
+[ 2018-09-18T18:12:54+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000006s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000523s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001018s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001061s ]
+NOTIC: [8192] The each() function is deprecated. This message will be suppressed on further calls H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\aop\AopClient.php 第 413 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000833s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000868s ]
+
+[ 2018-09-18T18:13:01+08:00 ] 127.0.0.1 /index.php/alipay/pay.html
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000019s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000486s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000689s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000716s ]
+NOTIC: [8192] The each() function is deprecated. This message will be suppressed on further calls H:\phpstudy\PHPTutorial\WWW\tp3.2\ThinkPHP\Library\Vendor\Alipay\aop\AopClient.php 第 413 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001019s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001089s ]
+
